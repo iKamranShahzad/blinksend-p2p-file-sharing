@@ -8,6 +8,7 @@ const predefinedNames = [
   "Gryffindor",
   "Slytherin",
   "Ravenclaw",
+  "Hagrid",
 ];
 
 interface User {
