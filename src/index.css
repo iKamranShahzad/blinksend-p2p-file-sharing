@@ -15,7 +15,7 @@
 }
 
 .gradient-background {
-  background: linear-gradient(45deg, #eaa3ce, #9491ec, #8ddee9, #eaed91);
+  background: linear-gradient(45deg, #e4ba64, #d390ea, #5b7cbd, #3dbe77);
   background-size: 300% 300%;
   animation: gradientAnimation 30s ease infinite;
   position: fixed;
