@@ -178,7 +178,7 @@ function App() {
       </header>
 
       <div className="mt-8 flex flex-col items-center">
-        <h2 className="mb-4 text-2xl font-bold">Available Users</h2>
+        <h2 className="mb-4 text-2xl font-bold">Discoverable Users</h2>
         <ul className="space-y-2">
           {users.map((user) => (
             <li
