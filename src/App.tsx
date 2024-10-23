@@ -173,7 +173,7 @@ function App() {
           alt="BlinkSend Logo"
         />
         <p className="mt-1 text-center text-sm sm:text-sm md:text-lg lg:text-lg">
-          Instant, Secure, and Limitless File Sharing at the Blink of an Eye
+          Instant, Secure, and Limitless P2P File Sharing at the Blink of an Eye
         </p>
       </header>
 
